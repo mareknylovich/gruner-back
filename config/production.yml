@@ -1,9 +1,9 @@
-DATABASE:
-  URL: DATABASE
+DATABASE: 
+  URL: postgres://qzeztmcuqhigmk:f0dd6e19e8f06679adb0704b56eeb361b2a429fbbd1fb2d15cdae8c93b694ee3@ec2-34-247-172-149.eu-west-1.compute.amazonaws.com:5432/df25p3tn715rp4
   SYNCHRONIZE: true
   TYPE: 'postgres'
 
 TELEGRAF:
-  BOT_TOKEN: 'BOT_TOKEN'
+  BOT_TOKEN: '5974206984:AAEOZXTJE3Xn5Z73k5r7ZgpVJqlvK-CXkao'
 
 VBIV_SOSTAV: 'f0underrr,makvin781'
