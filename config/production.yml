@@ -1,0 +1,9 @@
+DATABASE:
+  URL: DATABASE
+  SYNCHRONIZE: true
+  TYPE: 'postgres'
+
+TELEGRAF:
+  BOT_TOKEN: 'BOT_TOKEN'
+
+VBIV_SOSTAV: 'f0underrr,makvin781'
